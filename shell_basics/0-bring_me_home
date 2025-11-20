@@ -1,0 +1,3 @@
+USERNAME=$(whoami)
+cd /home/$USERNAME
+pwd
