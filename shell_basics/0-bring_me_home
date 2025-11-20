@@ -1,3 +1,2 @@
-USERNAME=$(whoami)
-cd /home/$USERNAME
-pwd
+#!/bin/bash
+cd $HOME
